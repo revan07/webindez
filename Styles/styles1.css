@@ -1,0 +1,32 @@
+.Header {
+  margin: 1 rem;
+  padding: 1 rem;
+  border: 2px solid rgb(126, 6, 150);
+  text-align: center;
+  }
+
+  .Header{
+    background: url('/imagn/sda.png') center;
+  }
+
+  a.more-link {
+    background-color: rgba(255, 255, 255, 0.35);
+    display: inline-block;
+    padding: 12px 18px;
+    
+    text-decoration: none;
+    font: 500 15px 'Work Sans', Helvetica, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    border: none !important;
+    position: relative;
+    border-radius: 18px;
+    text-transform: uppercase;
+    -webkit-transition: .1s all ease-in-out;
+    -moz-transition: .1s all ease-in-out;
+    -o-transition: .1s all ease-in-out;
+    transition: .1s all ease-in-out;
+  }
+
+  a.more-link:hover {    background-color: rgba(255, 255, 255, 0.50);
+  }

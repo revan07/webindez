@@ -1,0 +1,1 @@
+alert("esta pagina puede tener contenido para +18 seguro que quieres entrar");
